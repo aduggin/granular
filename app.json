@@ -1,0 +1,7 @@
+{
+  "name": "Granular",
+  "description": "A website and pattern library using Express 4",
+  "repository": "https://github.com/aduggin/granular",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}
